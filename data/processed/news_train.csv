@@ -1,0 +1,6 @@
+news_id,category,subcategory,title,abstract,url,title_entities,abstract_entities
+N10001,sports,football,Super Bowl Highlights,Exciting moments from the game.,https://example.com,[],[]
+N10002,technology,ai,LLMs in Recommendation,How neural models serve news.,https://example.com,[],[]
+N10003,finance,markets,Stock Market Updates,Analysis of global market trends.,https://example.com,[],[]
+N10004,health,wellness,Daily Exercise Tips,Simple routines for morning health.,https://example.com,[],[]
+N10005,technology,coding,VS Code Setup Guide,Optimizing your development setup.,https://example.com,[],[]
